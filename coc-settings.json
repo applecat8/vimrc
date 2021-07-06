@@ -1,0 +1,15 @@
+{
+    "clangd.path": "/home/applecat/.config/coc/extensions/coc-clangd-data/install/11.0.0/clangd_11.0.0/bin/clangd",
+    "codeLens.enable": true,
+    "coc.preferences.formatOnSaveFiletypes": [
+        "json",
+        "javascript",
+        "java"
+    ],
+    "translator.engines": [
+        "bing",
+        "youdao",
+        "haici"
+    ],
+    "diagnostic.refreshOnInsertMode": true
+}
